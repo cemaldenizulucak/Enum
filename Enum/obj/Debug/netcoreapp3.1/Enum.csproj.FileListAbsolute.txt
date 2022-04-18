@@ -1,0 +1,13 @@
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\Enum\bin\Debug\netcoreapp3.1\Enum.exe
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\Enum\bin\Debug\netcoreapp3.1\Enum.deps.json
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.json
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.dev.json
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\Enum\bin\Debug\netcoreapp3.1\Enum.dll
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\Enum\bin\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\Enum\obj\Debug\netcoreapp3.1\Enum.csprojAssemblyReference.cache
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfoInputs.cache
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfo.cs
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\Enum\obj\Debug\netcoreapp3.1\Enum.csproj.CoreCompileInputs.cache
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\Enum\obj\Debug\netcoreapp3.1\Enum.dll
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\Enum\obj\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\AbstractInterface\Enum\obj\Debug\netcoreapp3.1\Enum.genruntimeconfig.cache
